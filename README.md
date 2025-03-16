@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityap817&label=Profile%20views&color=0e75b6&style=flat" alt="adityap817" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.adityapaatil.tech](adityapaatil.tech)
+- 👨‍💻 All of my projects are available at [adityapaatil.tech](https://adityapaatil.tech/)
 
 - 💬 Ask me about **C++ , ReactJs**
 
