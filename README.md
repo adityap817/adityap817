@@ -1,53 +1,92 @@
-# Hi there 👋
+<div align="center">
 
-### I'm Aditya L. Patil  
-A passionate Programmer | Problem Solver | Developer and Graduate Student at Arizona State University pursuing MS Software Engineering.
+# Hi there! I'm Aditya L. Patil 👋
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Software+Engineer;Graduate+Student+@+ASU;Problem+Solver;Building+with+React+%26+C%2B%2B)](https://git.io/typing-svg)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adityap817&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+**A passionate Programmer | Problem Solver | Developer** pursuing my MS in Software Engineering at Arizona State University. ☀️🌵
+
+<p align="center">
+  <a href="https://adityapaatil.tech"><strong>Explore My Portfolio</strong></a> ·
+  <a href="mailto:adityap817@gmail.com"><strong>Email Me</strong></a> ·
+  <a href="https://linkedin.com/in/adityap817"><strong>LinkedIn</strong></a>
 </p>
 
-- 👨‍💻 Explore all my projects at [adityapaatil.tech](https://adityapaatil.tech)  
-- 💬 Ask me about **C++, ReactJs**  
-- 📫 Reach me at **adityap817@gmail.com**  
-- ⚡ Fun fact: *I might be coding while you read this...*
+---
+
+<img src="https://komarev.com/ghpvc/?username=adityap817&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+### 🤖 About Me
+- 🔭 I’m currently building cool things and studying at **Arizona State University**.
+- 🌱 I’m currently deep-diving into **Modern C++, Advanced React, and AI/ML Integrations**.
+- 💬 Ask me about **C++, ReactJs, and System Design**.
+- ⚡ Fun fact: *I might be coding (or debugging a missing semicolon) while you read this...*
 
 ---
 
-### 🌐 Connect with me:
+### 🛠️ Languages, Tools & AI Stack
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityap__817)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityap817)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityaa_24)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adityap817)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adityaa_24)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityapatil)
+*Modernized with animated hover icons!*
 
----
+<div align="center">
+  
+**Core & Frontend**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,html,css,tailwind,bootstrap" />
+</a>
 
-### 🛠️ Languages & Tools
+**Backend, Cloud & DevOps**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,kubernetes,linux,git,postman,vscode" />
+</a>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**AI / Machine Learning (Add your tools here!)**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" />
+</a>
+
+</div>
 
 ---
 
-Thank you for visiting my profile!  
-Keep coding and stay curious 🚀
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityap817&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityap817&theme=tokyonight&hide_border=true&background=0D1117" alt="Aditya's GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+*Watch the snake eat my contributions! (Requires GitHub Actions to run)*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityap817/adityap817/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityap817/adityap817/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityap817/adityap817/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🌐 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/adityap817)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/adityap__817)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&style=flat-square)](https://leetcode.com/adityaa_24)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/adityap817)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&style=flat-square)](https://www.codechef.com/users/adityaa_24)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&style=flat-square)](https://auth.geeksforgeeks.org/user/adityapatil)
+
+</div>
+
+<p align="center">
+  <i>Thank you for visiting my profile! Keep coding and stay curious 🚀</i>
+</p>
